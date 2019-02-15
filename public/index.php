@@ -30,7 +30,7 @@
 			<div class="w3ls-header"><!-- header-one --> 
 				<div class="container">
 					<div class="w3ls-header-left">
-						<p>Stretching outside your comfortzone starts here</p>
+						<p>Stretching outside your comfort zone starts here</p>
 
 					</div>
 					<div class="clearfix"> </div> 
